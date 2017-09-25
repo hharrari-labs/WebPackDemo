@@ -1,0 +1,15 @@
+{
+  "name": "webpackdev",
+  "version": "1.0.0",
+  "description": "test de configuration de webpack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hakim Harrari",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.6.0"
+  }
+}
